@@ -1,7 +1,5 @@
 'use latest';
 
-const request = require('request');
-
 module.exports = function(ctx, cb) {
 
   const baseURL = "https://www.wanikani.com/api/user/";
